@@ -9,6 +9,12 @@ Thursday, November 26, 2026. Turkey gets cooked **Wednesday 11/25**, and the sid
 | [wednesday-turkey-day.md](wednesday-turkey-day.md) | Wed 11/25: break down, inject, rub, and roast the turkeys, make the gravy, and frog eye salad part 1 |
 | [thanksgiving-day.md](thanksgiving-day.md) | Thu 11/26: reheat the turkey, both potato dishes, Stove Top, reheat the gravy, and frog eye salad part 2 |
 
+## Clickable checklists (tap to check off on GitHub)
+
+- [Shopping list](https://github.com/jtwebman/Thanksgiving2026/issues/1)
+- [Wednesday](https://github.com/jtwebman/Thanksgiving2026/issues/2)
+- [Thursday](https://github.com/jtwebman/Thanksgiving2026/issues/3)
+
 ## The menu
 
 1. **Butter-injected turkey pieces**: two 10–12 lb turkeys, cut up and roasted in pans with broth, then sliced and reheated in their juices
