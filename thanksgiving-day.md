@@ -8,24 +8,24 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 | Time | Do it |
 |---|---|
 | **10:00** | Finish the **frog eye salad** (Part 2 below) and put it back in the fridge. |
-| **10:45** | Peel and cube the **sweet potatoes** and boil them (15–20 min). Peel and cube the **Yukon Golds** if you didn't do it Wednesday night. Keep them in cold water. |
-| **11:15** | Mash the **sweet potato base** into a buttered 9x13. Cover it and set it aside. |
-| **11:45** | Preheat the oven to **350°F**. Take the **turkey pans** out of the fridge and add broth and butter (see Turkey below). |
-| **12:15** | **Turkey goes in** (covered) and **sweet potatoes go in** (uncovered). Start boiling the **Yukon Golds**. |
-| **12:45** | Take the sweet potatoes out and cover them with foil. **Mash the potatoes** and move them to the buttered **crockpot** on **Warm**. |
-| **1:15** | Check the turkey. Take it out when the thickest piece reads **165°F** (usually 1:15–1:30). |
-| **1:30** | Wrap the turkey and sweet potato pans in foil and towels and put them in the **cooler**. Put the frog eye salad in a separate bag with ice packs. |
-| **1:45** | Load the car (checklist at the bottom). |
+| **11:15** | Peel and cube the **sweet potatoes** and boil them (15–20 min). Peel and cube the **Yukon Golds** if you didn't do it Wednesday night. Keep them in cold water. |
+| **11:45** | Mash the **sweet potato base** into a buttered 9x13 and cover it. Preheat the oven to **350°F**. Take the **2 turkey pans** out of the fridge and add broth and butter (see Turkey below). |
+| **12:15** | **Turkey goes in**, covered, **1 pan per rack**. Start boiling the **Yukon Golds**. |
+| **12:45** | **Mash the potatoes** and move them to the buttered **crockpot** on **Warm**. |
+| **1:15** | Check the turkey. Take it out when the thickest piece reads **165°F**. Keep it covered in foil, wrap it in towels, and put it in the **cooler**. **Sweet potatoes go in** (uncovered, 25–30 min). |
+| **1:45** | Take the sweet potatoes out, cover them with foil, wrap them in a towel, and put them in the cooler. Put the frog eye salad in a separate bag with ice packs. |
+| **1:50** | Load the car (checklist at the bottom). |
 | **2:00** | **Leave.** |
 
 ## At the host's house
 
 | Time | Do it |
 |---|---|
-| **2:30** | Arrive. Put the **turkey and sweet potatoes in their oven at 250°F**, covered, to keep them hot. Plug in the **crockpot** on Warm. Put the **frog eye salad in their fridge**. |
-| **3:30** | Turn the oven up to **350°F**. Uncover the sweet potatoes, add the **brown sugar topping and marshmallows**, and put them back in uncovered. |
+| **2:30** | Arrive. Put the **2 turkey pans in their oven at 250°F**, covered, to keep them hot. The sweet potatoes stay wrapped in the cooler. Plug in the **crockpot** on Warm. Put the **frog eye salad in their fridge**. *If their oven is big enough for all 3 pans, put the sweet potatoes in now too.* |
+| **3:15** | Check the turkey is at **165°F**, then take it out. Keep it covered in foil and towels; it stays hot. Turn the oven up to **350°F**. |
+| **3:20** | **Sweet potatoes go in:** uncover them, add the **brown sugar topping and marshmallows**, and bake 20–25 min, until they're hot all the way through and the marshmallows are golden. |
 | **3:40** | Make the **Stove Top** on their stove (10 min). Reheat the **homemade gravy** in a small pot on another burner, and make the **packet gravy** in a third pot. |
-| **3:45** | Take the sweet potatoes out when the marshmallows are golden. Check the turkey is at **165°F**, take it out, and spoon the juices over it. |
+| **3:45** | Take the sweet potatoes out. Spoon the juices over the turkey. |
 | **3:50** | Fluff the stuffing, stir the potatoes (add a splash of milk if they're stiff), and set out the frog eye salad. |
 | **4:00** | **Eat!** |
 
@@ -35,9 +35,9 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 
 ## Turkey: reheat
 1. **11:45:** pour **1–1½ cups chicken broth** over each pan and add a few pats of butter. Cover **tightly** with foil.
-2. **12:15:** bake at **350°F** for **50–60 min**, until the thickest piece reads **165°F** on the thermometer.
+2. **12:15:** bake at **350°F**, **1 pan per rack**, for **50–60 min**, until the thickest piece reads **165°F** on the thermometer. Swap the pans between racks halfway through.
 3. **Drive:** keep the foil on, wrap the pans in towels, and put them in the cooler.
-4. **At the host's house:** hold the pans at **250°F**, covered, starting at 2:30. They come up to 350°F along with the sweet potatoes at 3:30. Check for **165°F** before serving. If it looks dry, add a splash of broth.
+4. **At the host's house:** hold the pans at **250°F**, covered, from 2:30 to 3:15. Check for **165°F**, then keep them covered in foil and towels until dinner. If it looks dry, add a splash of broth.
 
 ---
 
@@ -67,7 +67,6 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 | Butter, melted | 1 stick (½ cup) |
 | Brown sugar, packed | ¾ cup |
 | Half-and-half or milk | ½ cup |
-| Eggs | 2 |
 | Vanilla | 1 tsp |
 | Cinnamon | 1 tsp |
 | Nutmeg | ¼ tsp |
@@ -82,9 +81,9 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 
 1. Peel the sweet potatoes and cut them into 1½" chunks. Boil them in salted water for **15–20 min** until tender, then drain well.
 2. Mash them with all the base ingredients until smooth. Spread the mixture in a buttered 9x13.
-3. **At home:** bake uncovered at **350°F** for **25–30 min**, then cover with foil.
+3. **At home:** bake uncovered at **350°F** for **25–30 min** (1:15–1:45, after the turkey comes out), then cover with foil.
 4. **Pack the topping to go:** stir the brown sugar into the melted butter in a small container, and bring the bag of marshmallows.
-5. **At the host's house at 3:30:** drizzle the brown sugar butter over the top, cover with an even layer of marshmallows, and bake at **350°F** for **10–15 min** until they're puffed and golden. Watch them closely at the end.
+5. **At the host's house at 3:20:** drizzle the brown sugar butter over the top, cover with an even layer of marshmallows, and bake at **350°F** for **20–25 min**, until they're hot all the way through and the marshmallows are puffed and golden. Watch them closely at the end.
 
 ---
 

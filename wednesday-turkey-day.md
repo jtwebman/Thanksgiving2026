@@ -11,7 +11,7 @@
 - ½ cup flour (for the gravy)
 - 2 onions, 4 celery ribs, 1 head garlic, and fresh herbs (optional)
 - Rub and injection spices (below)
-- 4 roasting pans to cook in, plus 2–3 clean pans to store the meat
+- 2 full-size roasting pans (1 per turkey), set on baking sheets so they don't bend
 - Meat injector, oven-safe meat thermometer, heavy-duty foil, a sharp knife, and kitchen shears
 
 ---
@@ -27,10 +27,10 @@ Do this breast-side up on a big cutting board. Gloves help.
 1. **Legs:** pull a leg away from the body and slice through the skin between the leg and the breast. Bend the leg back until the hip joint pops, then cut through the joint. Repeat on the other side.
 2. **Split each leg** into a **thigh** and a **drumstick** by cutting through the joint. Feel for the line of fat on the underside; that's where the joint is.
 3. **Wings:** pull each wing out and cut through the shoulder joint.
-4. **Back:** stand the turkey on its neck end and use kitchen shears to cut down both sides of the backbone, through the ribs. That leaves the whole breast on the bone. Keep the backbone; it goes in the pan.
+4. **Back:** stand the turkey on its neck end and use kitchen shears to cut down both sides of the backbone, through the ribs. That leaves the whole breast on the bone. There's no room for the backbone in the pan; freeze it for soup or toss it.
 5. **Split the breast:** put it skin-side down and cut down the center of the breastbone with a heavy knife (press down firmly) to make 2 breast halves.
 
-**From both turkeys you'll have:** 4 breast halves, 4 thighs, 4 drumsticks, 4 wings, and 2 backs.
+**From both turkeys you'll have:** 4 breast halves, 4 thighs, 4 drumsticks, 4 wings, and 2 backs. Freeze the backs for soup or toss them.
 
 ## 3. Butter injection (10 min to make, 15 min to inject)
 | Ingredient | Amount |
@@ -66,23 +66,20 @@ Mix in a bowl:
 1. Melt **1 stick of butter** and brush it all over the pieces.
 2. Sprinkle the rub on all sides. Loosen the breast skin with your fingers and push some rub **under** the skin too.
 
-## 5. Set up the pans
-Preheat the oven to **350°F**.
+## 5. Set up the pans (1 per turkey)
+Preheat the oven to **350°F**. Set the racks in the lower third and upper third, **1 pan per rack**.
 
-In **each of the 4 pans**, add ½ onion (quartered), 1 celery rib (in chunks), 3–4 smashed garlic cloves, a few herb sprigs, **1 cup broth**, and **2 Tbsp butter** in pats.
+In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smashed garlic cloves, and a few herb sprigs. The vegetables act as a rack for the turkey. Add **1½ cups broth** and **4 Tbsp butter** in pats.
 
-- **Pans 1 and 2 (white meat):** lay 1 back in the bottom of each pan as a rack, then put 2 breast halves on top, skin-side up.
-- **Pans 3 and 4 (dark meat):** 2 thighs, 2 drumsticks, and 2 wings per pan, skin-side up, not crammed together.
-
-Breast and dark meat finish at different temperatures. Keeping them in separate pans means you can pull each pan when it's done.
+**Arrange each turkey's pieces skin-side up, with the 2 breast halves in the middle and the thighs, drumsticks, and wings around the edges.** The edges of the pan get hotter, and the dark meat needs to cook longer, so that's where it goes. It's fine if the pieces fit snugly.
 
 ## 6. Roast (about 1½–2½ hours)
-1. **Cover each pan tightly with foil.** Roast for **1 hour**, with 2 pans per rack.
+1. **Cover each pan tightly with foil.** Roast for **1 hour**.
 2. **Uncover**, baste with the pan juices, and **swap the pans between racks** (top to bottom) so they cook evenly.
 3. Keep roasting uncovered, basting every 20–30 min, and start checking temperatures after about 30 more minutes:
    - **Breast: pull at 160°F** (thickest part, not touching bone). It climbs to 165°F while it rests.
    - **Thighs and drumsticks: pull at 175°F.** Dark meat stays juicy at that temperature and gets more tender.
-4. If one pan is done before the others, take it out. **Don't wait for the whole batch.**
+4. **The breasts finish first.** When a breast hits 160°F, move it to a platter and cover it with foil. Keep roasting the dark meat until it hits 175°F, usually another 15–30 min.
 
 > **Using your oven-safe thermometer:** leave it in the **thickest breast half**, since the breast is what dries out. To check the dark meat, move it into the thickest thigh (not touching bone) and wait about a minute for the needle to stop moving. Because it can only be in one piece at a time, check the other pans' pieces once each too.
 
@@ -90,9 +87,9 @@ Breast and dark meat finish at different temperatures. Keeping them in separate 
 1. Rest the pieces for **30 min**. Don't leave cooked turkey out for more than **2 hours** total.
 2. **Breasts:** cut the meat off the bone in one piece, then slice it about ½" thick.
 3. **Thighs:** keep them whole, or pull the meat off the bone. **Drumsticks and wings:** leave them whole.
-4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables and backs.
+4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables.
 5. **Set aside 3 cups of the juices for gravy** (step 8).
-6. Pack the turkey into **2–3 clean pans** (sliced breast in one, dark meat in the other). **Pour the rest of the juices over the meat.** This is what keeps it juicy. Thursday's reheat adds more broth, so it's fine if the meat isn't fully covered.
+6. Scrape out the 2 roasting pans and pack the turkey back into them: sliced breast in one, dark meat in the other. Leave the browned bits on the bottom; they add flavor. **Pour the rest of the juices over the meat.** This is what keeps it juicy. Thursday's reheat adds more broth, so it's fine if the meat isn't fully covered.
 6. Cover tightly with foil and refrigerate.
 
 ## 8. Turkey Gravy (20 min, makes about 6 cups)

@@ -16,7 +16,7 @@
 ## Dairy / Refrigerated
 - [ ] Half-and-half or whole milk, 1 quart (mashed potatoes and sweet potatoes)
 - [ ] 8 oz cream cheese, 1 block (helps the mashed potatoes stay creamy while they're held hot)
-- [ ] Eggs, half dozen (2 for frog eye salad, 2 for sweet potatoes)
+- [ ] Eggs: you need 2 for the frog eye salad
 - [ ] Cool Whip, two 8 oz tubs (frozen aisle; thaw in the fridge Wednesday night)
 
 ## Canned / Jarred (frog eye salad)
@@ -47,7 +47,7 @@
 - [ ] Cinnamon and nutmeg (sweet potatoes)
 
 ## Supplies
-- [ ] Disposable aluminum roasting pans, **6–8 full-size**: 4 to roast the turkey, 2–3 to store and reheat it, plus spares
+- [ ] Disposable aluminum roasting pans, **3 full-size**: 1 per turkey, plus 1 spare. The same pans hold the sliced turkey overnight and get reheated Thursday. Set them on baking sheets so they don't bend.
 - [ ] 1 disposable 9x13 pan, if you don't want to send your own dish for the sweet potatoes
 - [ ] Heavy-duty foil, 1 large roll
 - [ ] Gallon zip bags and disposable gloves (handy for breaking down the turkeys)
