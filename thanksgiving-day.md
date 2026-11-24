@@ -24,7 +24,7 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 |---|---|
 | **2:30** | Arrive. Put the **turkey and sweet potatoes in their oven at 250°F**, covered, to keep them hot. Plug in the **crockpot** on Warm. Put the **frog eye salad in their fridge**. |
 | **3:30** | Turn the oven up to **350°F**. Uncover the sweet potatoes, add the **brown sugar topping and marshmallows**, and put them back in uncovered. |
-| **3:40** | Make the **Stove Top** on their stove (10 min). |
+| **3:40** | Make the **Stove Top** on their stove (10 min). Reheat the **gravy** in a small pot on another burner. |
 | **3:45** | Take the sweet potatoes out when the marshmallows are golden. Check the turkey is at **165°F**, take it out, and spoon the juices over it. |
 | **3:50** | Fluff the stuffing, stir the potatoes (add a splash of milk if they're stiff), and set out the frog eye salad. |
 | **4:00** | **Eat!** |
@@ -100,6 +100,11 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 2. Stir in both boxes of stuffing mix, cover, and **take the pot off the heat**. Let it sit for **5 min**.
 3. Fluff it with a fork and serve.
 
+## Gravy: reheat (10 min, at the host's house)
+1. Scrape the gravy into a small pot. It will be a jelly from the fridge; that's normal.
+2. Warm it over **medium-low heat**, whisking, until it's smooth and bubbling, about 5–10 min.
+3. Whisk in a splash of broth if it's too thick.
+
 ---
 
 ## Frog Eye Salad, Part 2 (15 min, at 10:00)
@@ -128,6 +133,7 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 - [ ] Crockpot of mashed potatoes, plus its **cord**
 - [ ] Frog eye salad, with ice packs
 - [ ] Stove Top kit: 2 boxes, 3 cups broth, 1 stick butter, and a pot with a lid
+- [ ] Gravy container, plus a small pot, a whisk, and a gravy boat or ladle
 - [ ] Extra chicken broth and butter, for touching up the turkey or potatoes
 - [ ] Meat thermometer
 - [ ] Oven mitts, serving spoons, tongs, and a carving fork

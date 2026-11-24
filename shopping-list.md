@@ -30,9 +30,9 @@
 - [ ] Acini di pepe pasta, 1 lb (pasta aisle, often Barilla or Ronzoni). If you can't find it, get pastina or orzo.
 - [ ] Mini marshmallows, 2 bags (10 oz): 1 for the sweet potatoes, 1 for the salad
 - [ ] Sweetened shredded coconut, 1 bag (7 oz)
-- [ ] Low-sodium chicken broth, 4 cartons (32 oz): injection, turkey pans, reheating, and the Stove Top
+- [ ] Low-sodium chicken broth, 5 cartons (32 oz): injection, turkey pans, gravy, reheating, and the Stove Top
 - [ ] Brown sugar, 1 bag (2 lb), unless you already have plenty
-- [ ] Sugar (P), flour (P), vanilla (P)
+- [ ] Sugar (P), flour (P; about ¾ cup total for the gravy and salad), vanilla (P)
 
 ## Spices (for the turkey rub and injection; check what you have)
 - [ ] Kosher salt (P)

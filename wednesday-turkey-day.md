@@ -7,7 +7,8 @@
 ## What you need
 - 2 turkeys (10–12 lb each), thawed
 - About 6 sticks of butter
-- 2½ cartons low-sodium chicken broth (about 9 cups)
+- 2½ cartons low-sodium chicken broth (about 10 cups): injection, pans, and gravy
+- ½ cup flour (for the gravy)
 - 2 onions, 4 celery ribs, 1 head garlic, and fresh herbs (optional)
 - Rub and injection spices (below)
 - 4 roasting pans to cook in, plus 2–3 clean pans to store the meat
@@ -90,8 +91,32 @@ Breast and dark meat finish at different temperatures. Keeping them in separate 
 2. **Breasts:** cut the meat off the bone in one piece, then slice it about ½" thick.
 3. **Thighs:** keep them whole, or pull the meat off the bone. **Drumsticks and wings:** leave them whole.
 4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables and backs.
-5. Pack the turkey into **2–3 clean pans** (sliced breast in one, dark meat in the other). **Pour the juices over the meat** so it's mostly covered. This is what keeps it juicy.
+5. **Set aside 3 cups of the juices for gravy** (step 8).
+6. Pack the turkey into **2–3 clean pans** (sliced breast in one, dark meat in the other). **Pour the rest of the juices over the meat.** This is what keeps it juicy. Thursday's reheat adds more broth, so it's fine if the meat isn't fully covered.
 6. Cover tightly with foil and refrigerate.
+
+## 8. Turkey Gravy (20 min, makes about 6 cups)
+Making the gravy today means one less thing on Thursday, and gravy reheats perfectly.
+
+| Ingredient | Amount |
+|---|---|
+| Strained turkey drippings (from step 7) | 3 cups |
+| Fat skimmed from the drippings, topped up with butter if short | ½ cup |
+| Flour | ½ cup |
+| Low-sodium chicken broth | 3 cups |
+| Black pepper | ½ tsp |
+| Salt | **only after tasting** |
+
+1. **Separate the fat:** let the 3 cups of drippings sit for 5–10 min. The fat rises to the top. Spoon it off into a measuring cup. If you get less than ½ cup of fat, add butter to make ½ cup.
+2. **Roux:** melt the fat in a medium saucepan over medium heat. Whisk in the flour and cook it, whisking, for **2–3 min**, until it's golden and smells nutty.
+3. **Add the liquid slowly:** whisk in the drippings and broth **about 1 cup at a time**. Whisk out the lumps after each cup before you add the next.
+4. **Simmer for 5–10 min**, whisking now and then, until it coats a spoon.
+5. **Taste it before you add any salt.** The drippings are already salty from the injection and rub, so you may not need any. Add the pepper (and a pinch of dried thyme or sage if you like).
+6. **Fixes:**
+   - Too thick: whisk in more broth.
+   - Too thin: simmer it longer, or whisk in 1 Tbsp cornstarch stirred into 2 Tbsp cold water.
+   - Lumpy: pour it through a strainer.
+7. Let it cool, then refrigerate it in a covered container. It will set into a jelly in the fridge. That's normal.
 
 ---
 
@@ -118,6 +143,7 @@ The pasta and custard need to **chill overnight**.
 
 ## Before bed checklist
 - [ ] Turkey is sliced, packed in its juices, and in the fridge
+- [ ] Gravy is in the fridge
 - [ ] Frog eye pasta base is in the fridge
 - [ ] Drained pineapple is in the fridge
 - [ ] Cool Whip is thawing in the fridge
