@@ -24,7 +24,7 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 |---|---|
 | **2:30** | Arrive. Put the **turkey and sweet potatoes in their oven at 250°F**, covered, to keep them hot. Plug in the **crockpot** on Warm. Put the **frog eye salad in their fridge**. |
 | **3:30** | Turn the oven up to **350°F**. Uncover the sweet potatoes, add the **brown sugar topping and marshmallows**, and put them back in uncovered. |
-| **3:40** | Make the **Stove Top** on their stove (10 min). Reheat the **gravy** in a small pot on another burner. |
+| **3:40** | Make the **Stove Top** on their stove (10 min). Reheat the **homemade gravy** in a small pot on another burner, and make the **packet gravy** in a third pot. |
 | **3:45** | Take the sweet potatoes out when the marshmallows are golden. Check the turkey is at **165°F**, take it out, and spoon the juices over it. |
 | **3:50** | Fluff the stuffing, stir the potatoes (add a splash of milk if they're stiff), and set out the frog eye salad. |
 | **4:00** | **Eat!** |
@@ -105,6 +105,12 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 2. Warm it over **medium-low heat**, whisking, until it's smooth and bubbling, about 5–10 min.
 3. Whisk in a splash of broth if it's too thick.
 
+## Packet Gravy (5 min, at the host's house)
+For anyone who prefers the packet kind. 4 packets make about 4 cups.
+1. Whisk the 4 packets into the amount of **cold water the package says** in a small pot. Starting with cold water keeps it from getting lumpy.
+2. Bring it to a boil over medium heat, whisking. Simmer for 1 min until it thickens.
+3. Keep it on low until you serve it. Put it in its own bowl or gravy boat so nobody mixes it up with the homemade gravy.
+
 ---
 
 ## Frog Eye Salad, Part 2 (15 min, at 10:00)
@@ -134,6 +140,7 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 - [ ] Frog eye salad, with ice packs
 - [ ] Stove Top kit: 2 boxes, 3 cups broth, 1 stick butter, and a pot with a lid
 - [ ] Gravy container, plus a small pot, a whisk, and a gravy boat or ladle
+- [ ] 4 packets of gravy mix, a second small pot, and a second gravy boat or bowl
 - [ ] Extra chicken broth and butter, for touching up the turkey or potatoes
 - [ ] Meat thermometer
 - [ ] Oven mitts, serving spoons, tongs, and a carving fork

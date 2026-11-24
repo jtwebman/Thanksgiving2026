@@ -15,7 +15,7 @@ Thursday, November 26, 2026. Turkey gets cooked **Wednesday 11/25**, and the sid
 2. **Mashed potatoes**
 3. **Sweet potato casserole** with butter, brown sugar, and marshmallows
 4. **Stove Top stuffing**: 2 boxes (already have them)
-5. **Turkey gravy**: made Wednesday from the drippings and reheated at the host's house
+5. **Turkey gravy**: homemade from the drippings (made Wednesday and reheated at the host's house), plus **packet gravy** for anyone who prefers it (made at the host's house)
 6. **Frog eye salad**
 
 Amounts are for **12–15 people**, so there will be turkey leftovers.

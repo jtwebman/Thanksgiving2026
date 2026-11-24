@@ -28,6 +28,7 @@
 
 ## Dry Goods
 - [ ] Acini di pepe pasta, 1 lb (pasta aisle, often Barilla or Ronzoni). If you can't find it, get pastina or orzo.
+- [ ] Turkey gravy mix packets, 4 (most make 1 cup each, so check the package for about 4 cups total)
 - [ ] Mini marshmallows, 2 bags (10 oz): 1 for the sweet potatoes, 1 for the salad
 - [ ] Sweetened shredded coconut, 1 bag (7 oz)
 - [ ] Low-sodium chicken broth, 5 cartons (32 oz): injection, turkey pans, gravy, reheating, and the Stove Top
