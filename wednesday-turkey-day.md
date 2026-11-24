@@ -1,0 +1,122 @@
+# Wednesday 11/25: Turkey Day (plus Frog Eye Salad Part 1)
+
+**Plan on 4–5 hours total.** Roasting takes about 2 of those, and most of it is hands-off.
+
+**The plan:** cut both turkeys into pieces, inject them with butter-broth, rub them, and roast them in pans with broth. Then slice the meat and store it in its juices overnight. Turkey reheated in its own juices comes out much juicier than a whole bird that sat out.
+
+## What you need
+- 2 turkeys (10–12 lb each), thawed
+- About 6 sticks of butter
+- 2½ cartons low-sodium chicken broth (about 9 cups)
+- 2 onions, 4 celery ribs, 1 head garlic, and fresh herbs (optional)
+- Rub and injection spices (below)
+- 4 roasting pans to cook in, plus 2–3 clean pans to store the meat
+- Meat injector, instant-read thermometer, heavy-duty foil, a sharp knife, and kitchen shears
+
+---
+
+## 1. Check the turkeys and prep them (15 min)
+1. **Thaw check:** the cavity should have no ice, and the legs should wiggle freely at the joints. If the turkeys are still icy, put them breast-down in a sink of **cold** water for 30–60 min, changing the water every 30 min.
+2. Pull out the **neck** (in the main cavity) and the **giblet bag** (often tucked under the neck skin flap). Toss them, or save them for broth.
+3. **Pat the turkeys very dry** with paper towels. Dry skin takes the rub better and browns better.
+4. Set the oven rack positions for 2 racks: one in the lower third and one in the upper third.
+
+## 2. Break down the turkeys (about 15 min each)
+Do this breast-side up on a big cutting board. Gloves help.
+1. **Legs:** pull a leg away from the body and slice through the skin between the leg and the breast. Bend the leg back until the hip joint pops, then cut through the joint. Repeat on the other side.
+2. **Split each leg** into a **thigh** and a **drumstick** by cutting through the joint. Feel for the line of fat on the underside; that's where the joint is.
+3. **Wings:** pull each wing out and cut through the shoulder joint.
+4. **Back:** stand the turkey on its neck end and use kitchen shears to cut down both sides of the backbone, through the ribs. That leaves the whole breast on the bone. Keep the backbone; it goes in the pan.
+5. **Split the breast:** put it skin-side down and cut down the center of the breastbone with a heavy knife (press down firmly) to make 2 breast halves.
+
+**From both turkeys you'll have:** 4 breast halves, 4 thighs, 4 drumsticks, 4 wings, and 2 backs.
+
+## 3. Butter injection (10 min to make, 15 min to inject)
+| Ingredient | Amount |
+|---|---|
+| Butter, melted | 3 sticks (1½ cups) |
+| Low-sodium chicken broth, warm | 1½ cups |
+| Kosher salt | 2 Tbsp Diamond Crystal (or 1 Tbsp + 1 tsp Morton) |
+| Garlic powder | 2 tsp |
+| Onion powder | 1 tsp |
+
+1. Heat the broth, stir in the salt until it dissolves, then add the melted butter and powders. **Keep it warm** (lowest burner setting) so the butter doesn't harden in the needle. If the needle clogs, strain the mix.
+2. **How much goes where (per turkey, about 1½ cups):**
+   - Each breast half: about ½ cup, spread over 6–8 spots
+   - Each thigh: 2–3 Tbsp
+   - Each drumstick: 1–2 Tbsp
+   - Wings: skip them
+3. **How to inject:** push the needle deep, then press the plunger slowly while you pull the needle out. Use the same entry hole and angle it in different directions so the skin doesn't get torn up. Some leakage is normal; let it run into the pan.
+
+## 4. Rub (10 min)
+Mix in a bowl:
+| Spice | Amount |
+|---|---|
+| Kosher salt | 1 Tbsp |
+| Black pepper | 1 Tbsp |
+| Garlic powder | 1 Tbsp |
+| Onion powder | 1 Tbsp |
+| Smoked paprika | 1 Tbsp |
+| Brown sugar | 1 Tbsp |
+| Dried thyme | 2 tsp |
+| Rubbed sage | 2 tsp |
+| Dried rosemary, crushed | 1 tsp |
+
+1. Melt **1 stick of butter** and brush it all over the pieces.
+2. Sprinkle the rub on all sides. Loosen the breast skin with your fingers and push some rub **under** the skin too.
+
+## 5. Set up the pans
+Preheat the oven to **350°F**.
+
+In **each of the 4 pans**, add ½ onion (quartered), 1 celery rib (in chunks), 3–4 smashed garlic cloves, a few herb sprigs, **1 cup broth**, and **2 Tbsp butter** in pats.
+
+- **Pans 1 and 2 (white meat):** lay 1 back in the bottom of each pan as a rack, then put 2 breast halves on top, skin-side up.
+- **Pans 3 and 4 (dark meat):** 2 thighs, 2 drumsticks, and 2 wings per pan, skin-side up, not crammed together.
+
+Breast and dark meat finish at different temperatures. Keeping them in separate pans means you can pull each pan when it's done.
+
+## 6. Roast (about 1½–2½ hours)
+1. **Cover each pan tightly with foil.** Roast for **1 hour**, with 2 pans per rack.
+2. **Uncover**, baste with the pan juices, and **swap the pans between racks** (top to bottom) so they cook evenly.
+3. Keep roasting uncovered, basting every 20–30 min, and start checking temperatures after about 30 more minutes:
+   - **Breast: pull at 160°F** (thickest part, not touching bone). It climbs to 165°F while it rests.
+   - **Thighs and drumsticks: pull at 175°F.** Dark meat stays juicy at that temperature and gets more tender.
+4. If one pan is done before the others, take it out. **Don't wait for the whole batch.**
+
+## 7. Slice, pack, and refrigerate (30–45 min)
+1. Rest the pieces for **30 min**. Don't leave cooked turkey out for more than **2 hours** total.
+2. **Breasts:** cut the meat off the bone in one piece, then slice it about ½" thick.
+3. **Thighs:** keep them whole, or pull the meat off the bone. **Drumsticks and wings:** leave them whole.
+4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables and backs.
+5. Pack the turkey into **2–3 clean pans** (sliced breast in one, dark meat in the other). **Pour the juices over the meat** so it's mostly covered. This is what keeps it juicy.
+6. Cover tightly with foil and refrigerate.
+
+---
+
+## Frog Eye Salad, Part 1 (about 45 min, any time Wednesday)
+The pasta and custard need to **chill overnight**.
+
+| Ingredient | Amount |
+|---|---|
+| Acini di pepe pasta | 1 lb |
+| Sugar | 1 cup |
+| Flour | 2 Tbsp |
+| Salt | ½ tsp |
+| Eggs, beaten | 2 |
+| Pineapple juice (from the cans, plus backup) | 1¾ cups |
+| Lemon juice | 1 Tbsp |
+
+1. **Open and drain the 2 cans of pineapple**, saving the juice. Measure out 1¾ cups, topping it up with the backup juice if needed. Put the pineapple in a covered container in the fridge for tomorrow.
+2. **Custard:** in a saucepan, whisk together the sugar, flour, and salt. Whisk in the pineapple juice and eggs. Cook over **medium heat, stirring constantly**, until it thickens and bubbles (5–8 min). Stir in the lemon juice and let it cool.
+3. **Pasta:** boil it in salted water according to the package (about 9–11 min). Drain it and rinse with cold water until it's cool. Drain it well.
+4. Stir the custard into the pasta in a **big bowl** (it's going to get huge tomorrow). Cover and **refrigerate overnight**.
+5. Move the **Cool Whip from the freezer to the fridge** so it's thawed by tomorrow.
+
+---
+
+## Before bed checklist
+- [ ] Turkey is sliced, packed in its juices, and in the fridge
+- [ ] Frog eye pasta base is in the fridge
+- [ ] Drained pineapple is in the fridge
+- [ ] Cool Whip is thawing in the fridge
+- [ ] Optional head start: peel the potatoes and keep them **covered in cold water** in the fridge
