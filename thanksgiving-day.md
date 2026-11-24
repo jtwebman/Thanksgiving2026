@@ -129,6 +129,6 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 - [ ] Frog eye salad, with ice packs
 - [ ] Stove Top kit: 2 boxes, 3 cups broth, 1 stick butter, and a pot with a lid
 - [ ] Extra chicken broth and butter, for touching up the turkey or potatoes
-- [ ] Instant-read thermometer
+- [ ] Meat thermometer
 - [ ] Oven mitts, serving spoons, tongs, and a carving fork
 - [ ] Extra foil and zip bags, for leftovers

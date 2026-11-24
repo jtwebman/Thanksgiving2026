@@ -1,6 +1,6 @@
 # Shopping List (Mon 11/23)
 
-**Already have:** 2 turkeys (thawing in the fridge since Sat), 2 boxes of Stove Top, lots of butter (the whole menu uses about 10 sticks), a meat injector, a crockpot, and a cooler with towels.
+**Already have:** 2 turkeys (thawing in the fridge since Sat), 2 boxes of Stove Top, lots of butter (the whole menu uses about 10 sticks), a meat injector, an oven-safe meat thermometer, a crockpot, and a cooler with towels.
 
 **Check the pantry first.** Most people already have the items marked (P).
 
@@ -49,6 +49,5 @@
 - [ ] Disposable aluminum roasting pans, **6–8 full-size**: 4 to roast the turkey, 2–3 to store and reheat it, plus spares
 - [ ] 1 disposable 9x13 pan, if you don't want to send your own dish for the sweet potatoes
 - [ ] Heavy-duty foil, 1 large roll
-- [ ] **Instant-read thermometer** (you need one; about $10–20). This is how the turkey stays juicy instead of dry.
 - [ ] Gallon zip bags and disposable gloves (handy for breaking down the turkeys)
 - [ ] Ice packs, if you don't have any (to keep the frog eye salad cold on the drive)

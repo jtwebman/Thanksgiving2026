@@ -11,7 +11,7 @@
 - 2 onions, 4 celery ribs, 1 head garlic, and fresh herbs (optional)
 - Rub and injection spices (below)
 - 4 roasting pans to cook in, plus 2–3 clean pans to store the meat
-- Meat injector, instant-read thermometer, heavy-duty foil, a sharp knife, and kitchen shears
+- Meat injector, oven-safe meat thermometer, heavy-duty foil, a sharp knife, and kitchen shears
 
 ---
 
@@ -82,6 +82,8 @@ Breast and dark meat finish at different temperatures. Keeping them in separate 
    - **Breast: pull at 160°F** (thickest part, not touching bone). It climbs to 165°F while it rests.
    - **Thighs and drumsticks: pull at 175°F.** Dark meat stays juicy at that temperature and gets more tender.
 4. If one pan is done before the others, take it out. **Don't wait for the whole batch.**
+
+> **Using your oven-safe thermometer:** leave it in the **thickest breast half**, since the breast is what dries out. To check the dark meat, move it into the thickest thigh (not touching bone) and wait about a minute for the needle to stop moving. Because it can only be in one piece at a time, check the other pans' pieces once each too.
 
 ## 7. Slice, pack, and refrigerate (30–45 min)
 1. Rest the pieces for **30 min**. Don't leave cooked turkey out for more than **2 hours** total.
