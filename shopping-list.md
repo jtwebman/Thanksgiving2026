@@ -14,7 +14,7 @@
 - [ ] Fresh thyme or rosemary, 1 pack (optional, for the turkey pans)
 
 ## Dairy / Refrigerated
-- [ ] Half-and-half or whole milk, 1 quart (mashed potatoes and sweet potatoes)
+- [ ] Half-and-half or whole milk, 1 quart (mashed potatoes)
 - [ ] 8 oz cream cheese, 1 block (helps the mashed potatoes stay creamy while they're held hot)
 - [ ] Eggs: you need 2 for the frog eye salad
 - [ ] Cool Whip, two 8 oz tubs (frozen aisle; thaw in the fridge Wednesday night)
