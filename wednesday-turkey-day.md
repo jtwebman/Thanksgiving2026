@@ -27,10 +27,10 @@ Do this breast-side up on a big cutting board. Gloves help.
 1. **Legs:** pull a leg away from the body and slice through the skin between the leg and the breast. Bend the leg back until the hip joint pops, then cut through the joint. Repeat on the other side.
 2. **Split each leg** into a **thigh** and a **drumstick** by cutting through the joint. Feel for the line of fat on the underside; that's where the joint is.
 3. **Wings:** pull each wing out and cut through the shoulder joint.
-4. **Back:** stand the turkey on its neck end and use kitchen shears to cut down both sides of the backbone, through the ribs. That leaves the whole breast on the bone. There's no room for the backbone in the pan; freeze it for soup or toss it.
-5. **Split the breast:** put it skin-side down and cut down the center of the breastbone with a heavy knife (press down firmly) to make 2 breast halves.
+4. **Boneless breasts (leave the skin on):** find the breastbone running down the center. Cut down along one side of it, keeping the knife tight against the bone. Then use short strokes along the rib cage to peel the breast half away from the bones, pulling it back gently with your other hand as you go. Cut through any skin left at the edges. Repeat on the other side.
+5. **Carcass:** whatever's left goes in the freezer for soup, or in the trash.
 
-**From both turkeys you'll have:** 4 breast halves, 4 thighs, 4 drumsticks, 4 wings, and 2 backs. Freeze the backs for soup or toss them.
+**From both turkeys you'll have:** 4 boneless skin-on breast halves, 4 bone-in thighs, 4 drumsticks, and 4 wings.
 
 ## 3. Butter injection (10 min to make, 15 min to inject)
 | Ingredient | Amount |
@@ -77,9 +77,9 @@ In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smash
 Pieces this size don't need foil. Roasting uncovered browns the skin and makes better drippings.
 
 1. Roast **uncovered**, 1 pan per rack.
-2. **At 30 min:** swap the pans between racks (top to bottom), baste with the pan juices, and **start checking the breasts**. If a pan looks dry, add ½ cup water so the drippings don't burn.
+2. **At 25 min:** swap the pans between racks (top to bottom), baste with the pan juices, and **start checking the breasts**. If a pan looks dry, add ½ cup water so the drippings don't burn.
 3. **Pull each piece when it's done.** Don't wait for the whole pan.
-   - **Breasts: pull at 145–150°F** (thickest part, not touching bone), usually around **45–60 min**. Rest them loosely tented with foil. They need to **stay at 145°F or above for 10 minutes**, and they'll usually climb a few degrees while they rest, so that takes care of itself. Your oven-safe thermometer can stay in to confirm it.
+   - **Boneless breasts: pull at 145–150°F** (thickest part), usually around **30–40 min**. Rest them loosely tented with foil. They need to **stay at 145°F or above for 10 minutes**, and they'll usually climb a few degrees while they rest, so that takes care of itself. Your oven-safe thermometer can stay in to confirm it.
    - **Wings: pull when they're browned and at 175°F or above**, usually around the same time as the breasts.
    - **Thighs and drumsticks: pull at 180–185°F**, usually **1–1¼ hours**. At that temperature the connective tissue breaks down and the dark meat gets tender.
 
@@ -89,7 +89,7 @@ Pieces this size don't need foil. Roasting uncovered browns the skin and makes b
 
 ## 7. Slice, pack, and refrigerate (30–45 min)
 1. Rest the pieces for **30 min**. Don't leave cooked turkey out for more than **2 hours** total.
-2. **Breasts:** cut the meat off the bone in one piece, then slice it about ½" thick.
+2. **Breasts:** slice them about ½" thick, across the grain.
 3. **Thighs:** keep them whole, or pull the meat off the bone. **Drumsticks and wings:** leave them whole.
 4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables.
 5. **Set aside up to 3 cups of the juices for gravy** (step 8). Uncovered roasting makes fewer drippings. If you have less, the gravy makes up the difference with broth.
