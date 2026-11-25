@@ -65,11 +65,13 @@ Mix in a bowl:
 
 1. Melt **1 stick of butter** and brush it all over the pieces.
 2. Sprinkle the rub on all sides. Loosen the breast skin with your fingers and push some rub **under** the skin too.
+3. **The rub is the salting.** The injection and the rub are already salted, so don't add more salt or the turkey will be too salty.
+4. **Rest them in the fridge for about 1 hour, uncovered.** Set up the pans first (step 5, but **no broth or butter yet**), put the pieces in, and refrigerate. The salt works its way in, and the skin dries out so it browns better. If both pans won't fit in the fridge, use sheet pans or big zip bags.
 
 ## 5. Set up the pans (1 per turkey)
-Preheat the oven to **400°F**. Set the racks in the lower third and upper third, **1 pan per rack**.
+Do this before the fridge rest. **Preheat the oven to 400°F about 45 min into the rest.** Set the racks in the lower third and upper third, **1 pan per rack**.
 
-In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smashed garlic cloves, and a few herb sprigs. The vegetables act as a rack for the turkey. Add **1½ cups broth** and **4 Tbsp butter** in pats. The broth keeps the drippings from burning at 400°F, and those drippings become the gravy.
+In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smashed garlic cloves, and a few herb sprigs. The vegetables act as a rack for the turkey. **Right before the pans go in the oven**, add **1½ cups broth** and **4 Tbsp butter** in pats to each one. The broth keeps the drippings from burning at 400°F, and those drippings become the gravy.
 
 **Arrange each turkey's pieces skin-side up, with the 2 breast halves in the middle and the thighs, drumsticks, and wings around the edges.** The edges of the pan get hotter, and the dark meat needs to cook longer, so that's where it goes. It's fine if the pieces fit snugly.
 
