@@ -1,6 +1,6 @@
 # Wednesday 11/25: Turkey Day (plus Frog Eye Salad Part 1)
 
-**Plan on 4–5 hours total.** Roasting takes about 2 of those, and most of it is hands-off.
+**Plan on 3½–4 hours total.** Roasting takes about 1–1¼ hours of that, uncovered at 400°F.
 
 **The plan:** cut both turkeys into pieces, inject them with butter-broth, rub them, and roast them in pans with broth. Then slice the meat and store it in its juices overnight. Turkey reheated in its own juices comes out much juicier than a whole bird that sat out.
 
@@ -67,44 +67,48 @@ Mix in a bowl:
 2. Sprinkle the rub on all sides. Loosen the breast skin with your fingers and push some rub **under** the skin too.
 
 ## 5. Set up the pans (1 per turkey)
-Preheat the oven to **350°F**. Set the racks in the lower third and upper third, **1 pan per rack**.
+Preheat the oven to **400°F**. Set the racks in the lower third and upper third, **1 pan per rack**.
 
-In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smashed garlic cloves, and a few herb sprigs. The vegetables act as a rack for the turkey. Add **1½ cups broth** and **4 Tbsp butter** in pats.
+In **each pan**, scatter 1 onion (quartered), 2 celery ribs (in chunks), 6 smashed garlic cloves, and a few herb sprigs. The vegetables act as a rack for the turkey. Add **1½ cups broth** and **4 Tbsp butter** in pats. The broth keeps the drippings from burning at 400°F, and those drippings become the gravy.
 
 **Arrange each turkey's pieces skin-side up, with the 2 breast halves in the middle and the thighs, drumsticks, and wings around the edges.** The edges of the pan get hotter, and the dark meat needs to cook longer, so that's where it goes. It's fine if the pieces fit snugly.
 
-## 6. Roast (about 1½–2½ hours)
-1. **Cover each pan tightly with foil.** Roast for **1 hour**.
-2. **Uncover**, baste with the pan juices, and **swap the pans between racks** (top to bottom) so they cook evenly.
-3. Keep roasting uncovered, basting every 20–30 min, and start checking temperatures after about 30 more minutes:
-   - **Breast: pull at 160°F** (thickest part, not touching bone). It climbs to 165°F while it rests.
-   - **Thighs and drumsticks: pull at 175°F.** Dark meat stays juicy at that temperature and gets more tender.
-4. **The breasts finish first.** When a breast hits 160°F, move it to a platter and cover it with foil. Keep roasting the dark meat until it hits 175°F, usually another 15–30 min.
+## 6. Roast uncovered at 400°F (about 1–1¼ hours)
+Pieces this size don't need foil. Roasting uncovered browns the skin and makes better drippings.
 
-> **Using your oven-safe thermometer:** leave it in the **thickest breast half**, since the breast is what dries out. To check the dark meat, move it into the thickest thigh (not touching bone) and wait about a minute for the needle to stop moving. Because it can only be in one piece at a time, check the other pans' pieces once each too.
+1. Roast **uncovered**, 1 pan per rack.
+2. **At 30 min:** swap the pans between racks (top to bottom), baste with the pan juices, and **start checking the breasts**. If a pan looks dry, add ½ cup water so the drippings don't burn.
+3. **Pull each piece when it's done.** Don't wait for the whole pan.
+   - **Breasts: pull at 145–150°F** (thickest part, not touching bone), usually around **45–60 min**. Rest them loosely tented with foil. They need to **stay at 145°F or above for 10 minutes**, and they'll usually climb a few degrees while they rest, so that takes care of itself. Your oven-safe thermometer can stay in to confirm it.
+   - **Wings: pull when they're browned and at 175°F or above**, usually around the same time as the breasts.
+   - **Thighs and drumsticks: pull at 180–185°F**, usually **1–1¼ hours**. At that temperature the connective tissue breaks down and the dark meat gets tender.
+
+**Why 145°F is safe:** poultry held at 145°F for about 10 minutes is as safe as poultry brought to 165°F for an instant, and it stays much juicier. The breast also gets reheated to 165°F tomorrow, so taking it out lower today keeps it from overcooking.
+
+> **Using your oven-safe thermometer:** leave it in the **thickest breast half**, since the breast is what dries out, and it lets you watch the 10-minute hold at 145°F. To check the dark meat, move it into the thickest thigh (not touching bone) and wait about a minute for the needle to stop moving. Because it can only be in one piece at a time, check the other pans' pieces once each too.
 
 ## 7. Slice, pack, and refrigerate (30–45 min)
 1. Rest the pieces for **30 min**. Don't leave cooked turkey out for more than **2 hours** total.
 2. **Breasts:** cut the meat off the bone in one piece, then slice it about ½" thick.
 3. **Thighs:** keep them whole, or pull the meat off the bone. **Drumsticks and wings:** leave them whole.
 4. **Strain the pan juices** through a colander into a big bowl. Toss the vegetables.
-5. **Set aside 3 cups of the juices for gravy** (step 8).
+5. **Set aside up to 3 cups of the juices for gravy** (step 8). Uncovered roasting makes fewer drippings. If you have less, the gravy makes up the difference with broth.
 6. Scrape out the 2 roasting pans and pack the turkey back into them: sliced breast in one, dark meat in the other. Leave the browned bits on the bottom; they add flavor. **Pour the rest of the juices over the meat.** This is what keeps it juicy. Thursday's reheat adds more broth, so it's fine if the meat isn't fully covered.
-6. Cover tightly with foil and refrigerate.
+7. Cover tightly with foil and refrigerate.
 
 ## 8. Turkey Gravy (20 min, makes about 6 cups)
 Making the gravy today means one less thing on Thursday, and gravy reheats perfectly.
 
 | Ingredient | Amount |
 |---|---|
-| Strained turkey drippings (from step 7) | 3 cups |
+| Strained turkey drippings (from step 7) | up to 3 cups |
 | Fat skimmed from the drippings, topped up with butter if short | ½ cup |
 | Flour | ½ cup |
-| Low-sodium chicken broth | 3 cups |
+| Low-sodium chicken broth | enough to make **6 cups of liquid total** with the drippings |
 | Black pepper | ½ tsp |
 | Salt | **only after tasting** |
 
-1. **Separate the fat:** let the 3 cups of drippings sit for 5–10 min. The fat rises to the top. Spoon it off into a measuring cup. If you get less than ½ cup of fat, add butter to make ½ cup.
+1. **Separate the fat:** let the drippings sit for 5–10 min. The fat rises to the top. Spoon it off into a measuring cup. If you get less than ½ cup of fat, add butter to make ½ cup.
 2. **Roux:** melt the fat in a medium saucepan over medium heat. Whisk in the flour and cook it, whisking, for **2–3 min**, until it's golden and smells nutty.
 3. **Add the liquid slowly:** whisk in the drippings and broth **about 1 cup at a time**. Whisk out the lumps after each cup before you add the next.
 4. **Simmer for 5–10 min**, whisking now and then, until it coats a spoon.
