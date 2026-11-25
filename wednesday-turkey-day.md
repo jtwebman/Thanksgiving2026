@@ -1,4 +1,4 @@
-# Wednesday 11/25: Turkey Day (plus Frog Eye Salad)
+# Wednesday 11/25: Turkey Day (plus Frog Eye Salad Part 1)
 
 **Plan on 3½–4 hours total.** Roasting takes about 1–1¼ hours of that, uncovered at 400°F.
 
@@ -123,10 +123,8 @@ Making the gravy today means one less thing on Thursday, and gravy reheats perfe
 
 ---
 
-## Frog Eye Salad (all of it today)
-**Start early.** The custard and pasta have to be **completely cold, about 3–4 hours in the fridge**, before the Cool Whip goes in, or the Cool Whip melts. Move the **Cool Whip from the freezer to the fridge** when you start, so it thaws in time.
-
-### Base
+## Frog Eye Salad, Part 1 (about 45 min, any time Wednesday)
+The pasta and custard need to **chill overnight**.
 
 | Ingredient | Amount |
 |---|---|
@@ -138,31 +136,18 @@ Making the gravy today means one less thing on Thursday, and gravy reheats perfe
 | Pineapple juice (from the cans, plus backup) | 1¾ cups |
 | Lemon juice | 1 Tbsp |
 
-1. **Open and drain the 2 cans of pineapple**, saving the juice. Measure out 1¾ cups, topping it up with the backup juice if needed. Put the pineapple in the fridge for later.
+1. **Open and drain the 2 cans of pineapple**, saving the juice. Measure out 1¾ cups, topping it up with the backup juice if needed. Put the pineapple in a covered container in the fridge for tomorrow.
 2. **Custard:** in a saucepan, whisk together the sugar, flour, and salt. Whisk in the pineapple juice and eggs. Cook over **medium heat, stirring constantly**, until it thickens and bubbles (5–8 min). Stir in the lemon juice and let it cool.
 3. **Pasta:** boil it in salted water according to the package (about 9–11 min). Drain it and rinse with cold water until it's cool. Drain it well.
-4. Stir the custard into the pasta in a **big bowl** (it's going to get huge). Cover and refrigerate for **3–4 hours**, until it's completely cold.
-
-### Finish it (once the base is cold)
-| Ingredient | Amount |
-|---|---|
-| Pineapple (drained earlier) | 2 cans' worth |
-| Fruit cocktail, drained | 2 cans (15 oz) |
-| Mandarin oranges, drained | 2 cans (11 oz) |
-| Maraschino cherries, drained and halved | 1 jar (10 oz); save a few whole ones for the top |
-| Cool Whip, thawed | 2 tubs (8 oz) |
-| Mini marshmallows | 2 cups |
-| Sweetened shredded coconut | 1 cup |
-
-1. **Drain the canned fruit really well** so the salad doesn't get watery. Pat the cherries dry.
-2. Gently fold everything into the cold pasta base.
-3. Top with a few whole cherries and a sprinkle of coconut. Cover and **refrigerate overnight**. The marshmallows soften overnight; that's normal.
-4. **Thursday's drive:** take it in a bag with ice packs, **not** in the cooler with the hot pans.
+4. Stir the custard into the pasta in a **big bowl** (it's going to get huge tomorrow). Cover and **refrigerate overnight**.
+5. Move the **Cool Whip from the freezer to the fridge** so it's thawed by tomorrow.
 
 ---
 
 ## Before bed checklist
 - [ ] Turkey is sliced, packed in its juices, and in the fridge
 - [ ] Gravy is in the fridge
-- [ ] Frog eye salad is finished and in the fridge
+- [ ] Frog eye pasta base is in the fridge
+- [ ] Drained pineapple is in the fridge
+- [ ] Cool Whip is thawing in the fridge
 - [ ] Optional head start: peel the potatoes and keep them **covered in cold water** in the fridge

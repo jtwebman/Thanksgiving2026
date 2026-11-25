@@ -6,8 +6,8 @@ Thursday, November 26, 2026. Turkey gets cooked **Wednesday 11/25**, and the sid
 |------|---------------|
 | [shopping-list.md](shopping-list.md) | Store run tonight (Mon 11/23) |
 | [email-dish-list.md](email-dish-list.md) | Dish list and plan, ready to paste into an email |
-| [wednesday-turkey-day.md](wednesday-turkey-day.md) | Wed 11/25: break down, inject, rub, and roast the turkeys, make the gravy, and make the frog eye salad |
-| [thanksgiving-day.md](thanksgiving-day.md) | Thu 11/26: reheat the turkey, both potato dishes, Stove Top, and reheat the gravy |
+| [wednesday-turkey-day.md](wednesday-turkey-day.md) | Wed 11/25: break down, inject, rub, and roast the turkeys, make the gravy, and frog eye salad part 1 |
+| [thanksgiving-day.md](thanksgiving-day.md) | Thu 11/26: reheat the turkey, both potato dishes, Stove Top, reheat the gravy, and frog eye salad part 2 |
 
 ## Clickable checklists (tap to check off on GitHub)
 

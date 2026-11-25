@@ -20,8 +20,8 @@ Here's our Thanksgiving plan:
 
 **Schedule**
 - **Mon 11/23 (tonight):** Grocery run
-- **Wed 11/25:** Cut up, season, and roast the turkeys. Slice the meat and store it in pans with the juices. Make gravy from the drippings. Make the frog eye salad.
-- **Thu 11/26 morning:** Make the mashed potatoes and the sweet potato base, and reheat the turkey in our oven.
+- **Wed 11/25:** Cut up, season, and roast the turkeys. Slice the meat and store it in pans with the juices. Make gravy from the drippings. Start the frog eye salad (pasta and custard need to chill overnight).
+- **Thu 11/26 morning:** Finish the frog eye salad, make the mashed potatoes and the sweet potato base, and reheat the turkey in our oven.
 - **Thu 2:00 pm:** Leave our house (30-minute drive).
 - **At their house, 2:30–4:00:** The turkey and sweet potatoes stay warm in their oven, the marshmallows go on the sweet potatoes, and we make the Stove Top fresh and do both gravies on their stove.
 - **4:00 pm:** Dinner!

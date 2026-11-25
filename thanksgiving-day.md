@@ -7,6 +7,7 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 
 | Time | Do it |
 |---|---|
+| **10:00** | Finish the **frog eye salad** (Part 2 below) and put it back in the fridge. |
 | **11:15** | Peel and cube the **sweet potatoes** and boil them (15–20 min). Peel and cube the **Yukon Golds** if you didn't do it Wednesday night. Keep them in cold water. |
 | **11:45** | Mash the **sweet potato base** into a buttered 9x13 and cover it. Preheat the oven to **350°F**. Take the **2 turkey pans** out of the fridge and add broth and butter (see Turkey below). |
 | **12:15** | **Turkey goes in**, covered, **1 pan per rack**. Start boiling the **Yukon Golds**. |
@@ -108,6 +109,25 @@ For anyone who prefers the packet kind. 4 packets make about 4 cups.
 1. Whisk the 4 packets into the amount of **cold water the package says** in a small pot. Starting with cold water keeps it from getting lumpy.
 2. Bring it to a boil over medium heat, whisking. Simmer for 1 min until it thickens.
 3. Keep it on low until you serve it. Put it in its own bowl or gravy boat so nobody mixes it up with the homemade gravy.
+
+---
+
+## Frog Eye Salad, Part 2 (15 min, at 10:00)
+| Ingredient | Amount |
+|---|---|
+| Pasta base from Wednesday | the whole bowl |
+| Pineapple (drained Wednesday) | 2 cans' worth |
+| Fruit cocktail, drained | 2 cans (15 oz) |
+| Mandarin oranges, drained | 2 cans (11 oz) |
+| Maraschino cherries, drained and halved | 1 jar (10 oz); save a few whole ones for the top |
+| Cool Whip, thawed | 2 tubs (8 oz) |
+| Mini marshmallows | 2 cups |
+| Sweetened shredded coconut | 1 cup |
+
+1. **Drain the canned fruit really well** so the salad doesn't get watery. Pat the cherries dry.
+2. Gently fold everything into the pasta base.
+3. Top with a few whole cherries and a sprinkle of coconut. Cover and refrigerate.
+4. **Drive:** take it in a bag with ice packs, **not** in the cooler with the hot pans.
 
 ---
 
