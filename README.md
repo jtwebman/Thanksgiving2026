@@ -19,7 +19,7 @@ Thursday, November 26, 2026. Turkey gets cooked **Wednesday 11/25**, and the sid
 
 1. **Butter-injected turkey pieces**: two 10–12 lb turkeys, cut up and roasted in pans with broth, then sliced and reheated in their juices
 2. **Mashed potatoes**
-3. **Sweet potatoes**: chunks roasted Wednesday with butter and brown sugar, then topped with marshmallows at the host's house
+3. **Sweet potatoes**: chunks roasted Thursday morning with butter and brown sugar, then topped with marshmallows at the host's house
 4. **Stove Top stuffing**: 2 boxes (already have them)
 5. **Turkey gravy**: homemade from the drippings (made Wednesday and reheated at the host's house), plus **packet gravy** for anyone who prefers it (made at the host's house)
 6. **Frog eye salad**

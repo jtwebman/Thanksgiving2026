@@ -121,25 +121,6 @@ Making the gravy today means one less thing on Thursday, and gravy reheats perfe
    - Lumpy: pour it through a strainer.
 7. Let it cool, then refrigerate it in a covered container. It will set into a jelly in the fridge. That's normal.
 
-## 9. Sweet Potatoes (about 1 hour, right after the turkey comes out)
-The oven is already at **400°F** from the turkey. Roast them tonight; Thursday they just get reheated and topped with marshmallows at the host's house.
-
-| Ingredient | Amount |
-|---|---|
-| Sweet potatoes, peeled and cut into 1½–2" chunks | 5 lb |
-| Butter, melted | 1 stick (½ cup) |
-| Brown sugar, packed | ¾ cup |
-| Cinnamon | 1 tsp |
-| Nutmeg | ¼ tsp |
-| Salt | ½ tsp |
-| Vanilla (optional) | 1 tsp |
-
-1. Butter a 9x13 and spread the sweet potato chunks in it. It will be full; that's fine.
-2. Stir the vanilla into the melted butter and drizzle it over the top. Sprinkle the brown sugar, cinnamon, nutmeg, and salt over everything, then toss them lightly.
-3. **Cover with foil and roast for 30 min.**
-4. **Uncover**, stir so they get coated in the syrup, and roast for **15–20 min more**, until a fork goes in with just a little resistance. Stop when they're **almost done**; they finish cooking when they're reheated tomorrow.
-5. Let them cool for about 30 min, cover, and refrigerate.
-
 ---
 
 ## Frog Eye Salad, Part 1 (about 45 min, any time Wednesday)
@@ -166,7 +147,6 @@ The pasta and custard need to **chill overnight**.
 ## Before bed checklist
 - [ ] Turkey is sliced, packed in its juices, and in the fridge
 - [ ] Gravy is in the fridge
-- [ ] Sweet potatoes are roasted, covered, and in the fridge
 - [ ] Frog eye pasta base is in the fridge
 - [ ] Drained pineapple is in the fridge
 - [ ] Cool Whip is thawing in the fridge

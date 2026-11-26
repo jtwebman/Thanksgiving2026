@@ -8,8 +8,11 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 | Time | Do it |
 |---|---|
 | **10:00** | Finish the **frog eye salad** (Part 2 below) and put it back in the fridge. |
-| **11:15** | Peel and cube the **Yukon Golds** if you didn't do it Wednesday night. Keep them in cold water. |
-| **11:45** | Preheat the oven to **350°F**. Take the **2 turkey pans** out of the fridge and add broth and butter (see Turkey below). |
+| **10:30** | Preheat the oven to **400°F**. Peel the **sweet potatoes**, cut them into chunks, and set them up in the 9x13 (Sweet Potatoes below). |
+| **10:45** | **Sweet potatoes go in**, covered, for 30 min. |
+| **11:15** | Uncover the sweet potatoes, stir, and roast 15–20 min more. Meanwhile, peel and cube the **Yukon Golds** if you didn't do it Wednesday night. Keep them in cold water. |
+| **11:35** | Take the sweet potatoes out when they're **almost** tender. Cover them loosely and put them in the **fridge**. Turn the oven down to **350°F**. |
+| **11:45** | Take the **2 turkey pans** out of the fridge and add broth and butter (see Turkey below). |
 | **12:15** | **Turkey goes in**, covered, **1 pan per rack**. Start boiling the **Yukon Golds**. |
 | **12:45** | **Mash the potatoes** and move them to the buttered **crockpot** on **Warm**. |
 | **1:15** | Check the turkey. Take it out when the thickest piece reads **165°F**. Keep it covered in foil, wrap it in towels, and put it in the **cooler**. |
@@ -59,17 +62,30 @@ The host's oven and stove are free, so the turkey and sweet potatoes get finishe
 
 ---
 
-## Sweet Potatoes (roasted Wednesday night, finished at the host's house)
-They're already roasted with butter and brown sugar (see the Wednesday page). Thursday you just reheat them and add the marshmallows.
-
-| Bring | Amount |
+## Sweet Potatoes (roasted at home in the morning, finished at the host's house)
+| Ingredient | Amount |
 |---|---|
-| Pan of roasted sweet potatoes, cold from the fridge and covered | 1 (9x13) |
-| Mini marshmallows | 1 bag (10 oz) |
+| Sweet potatoes, peeled and cut into 1½–2" chunks | 5 lb |
+| Butter, melted | 1 stick (½ cup) |
+| Brown sugar, packed | ¾ cup |
+| Cinnamon | 1 tsp |
+| Nutmeg | ¼ tsp |
+| Salt | ½ tsp |
+| Vanilla (optional) | 1 tsp |
+| Mini marshmallows (at the host's house) | 1 bag (10 oz) |
 
-1. **Drive:** keep them cold, in the bag with the frog eye salad and ice packs. At the host's house, put them in the fridge.
+**At home (10:30–11:35)**
+1. Preheat the oven to **400°F**. Butter a 9x13 and spread the sweet potato chunks in it. It will be full; that's fine.
+2. Stir the vanilla into the melted butter and drizzle it over the top. Sprinkle the brown sugar, cinnamon, nutmeg, and salt over everything, then toss them lightly.
+3. **10:45:** cover with foil and roast for **30 min**.
+4. **11:15:** uncover, stir so they get coated in the syrup, and roast for **15–20 min more**, until a fork goes in with just a little resistance. Stop when they're **almost done**; they finish cooking at the host's house.
+5. **11:35:** cover them loosely and put them in the **fridge**. They'd sit too long at room temperature before dinner otherwise. Turn the oven down to 350°F for the turkey.
+6. **1:30:** pack them cold, in the bag with the frog eye salad and ice packs.
+
+**At the host's house**
+1. Put them in the fridge when you arrive.
 2. **3:10:** bake them **covered** at **350°F** for **20–25 min**, until they're hot all the way through.
-3. **3:35:** uncover them, gently stir so the chunks get coated in the buttery brown sugar syrup, and cover the top with an even layer of **marshmallows**.
+3. **3:35:** uncover, gently stir, and cover the top with an even layer of **marshmallows**.
 4. Bake **10–15 min**, until the marshmallows are puffed and golden. Watch them closely at the end.
 ---
 
